@@ -1,10 +1,18 @@
-h1{
+.rick{
     text-align: left;
+    font-size: 30px;
+    font-family: "Arial Black";
 }
-h2{
+
+.roll{
     text-align: center;
-    padding: 1px;
+    padding: 10px;
     font-size: 50px;
     font-family: "Arial Black";
 }
-iframe{}
+.GIF{
+    text-align: center;
+}
+body{
+    background-image: url("rick astley achtergrond.png");
+}
